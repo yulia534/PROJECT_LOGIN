@@ -230,7 +230,7 @@ function get_diskon_text($diskon_amount, $grandtotal) {
             </div>
         </div>
         <div class="right-section">
-            <p>Selamat datang, **YULI**<br>
+            <p>Selamat datang, **Ridho**<br>
             <span class="role">Role: Mahasiswa</span></p>
             <a href="logout.php">Logout</a>
         </div>
